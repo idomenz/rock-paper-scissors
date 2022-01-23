@@ -1,0 +1,21 @@
+#coselection{
+display: flex;
+flex-direction: row;
+align-items:center;
+border-style: solid;
+width: 80px;
+height:80px;
+text-align: center;
+padding-left: 30px;
+background-color: lightcyan;
+}
+
+body{
+background-color: beige;
+
+}
+
+.btns{
+  display:flex;
+  gap: 50px; 
+}
